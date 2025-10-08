@@ -11,7 +11,7 @@
 <br>
 
 - :school: I am a Junior `Cloud/DevOps` - Engineer
-- :trophy: 3 `Certs` <a href="https://www.credly.com/badges/8e50f2c9-4d45-4282-a766-32da9a02faf2/public_url"> AWS Cloud Practitioner <a/>, <a href="https://www.credly.com/badges/901527f1-3d2d-4326-8afc-075c0bbf5e65/public_url"> AWS Solutions Architect Associate <a/> and <a href="https://www.credly.com/badges/150c7c6c-cbe6-4c04-bbf5-6671b3c416a9/public_url"> Terraform Associate <a/>.
+- :trophy: 3 `Certs` <a href="https://www.credly.com/badges/8e50f2c9-4d45-4282-a766-32da9a02faf2/public_url"> AWS Cloud Practitioner <a/>, <a href="https://www.credly.com/badges/901527f1-3d2d-4326-8afc-075c0bbf5e65/public_url"> AWS Solutions Architect Associate <a/> and <a href="https://www.credly.com/badges/150c7c6c-cbe6-4c04-bbf5-6671b3c416a9/public_url"> Terraform Associate <a/>
 - :computer: Passionate about building reliable and automated `Cloud Infrastructures`.
 - :student: Continuously learning about `Cloud`, `DevOps`, `IaC` and `Python`.
 - :thinking: I’m currently open for a new `job opportunity`.
