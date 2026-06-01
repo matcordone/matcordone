@@ -10,13 +10,13 @@
 
 <br>
 
-- :school: I am a Junior `Cloud/DevOps` - Engineer
+- :school: I am a professional `Cloud/DevOps` Engineer
 - :trophy: 3 `Certs` <a href="https://www.credly.com/badges/8e50f2c9-4d45-4282-a766-32da9a02faf2/public_url"> AWS Cloud Practitioner <a/>, <a href="https://www.credly.com/badges/901527f1-3d2d-4326-8afc-075c0bbf5e65/public_url"> AWS Solutions Architect Associate <a/> and <a href="https://www.credly.com/badges/150c7c6c-cbe6-4c04-bbf5-6671b3c416a9/public_url"> Terraform Associate <a/>
 - :computer: Passionate about building reliable and automated `Cloud Infrastructures`.
 - :student: Continuously learning about `Cloud`, `DevOps`, `IaC` and `Python`.
 - ✔ Always happy to chat — feel free to ask me anything!  
 - 🚀 Outside of tech, I enjoy 🎮 gaming, 📖 books, 🎥 creating YouTube videos &	📈 Investing in the Stock Market.  
-- 👾 I also share DevOps and tech-related content on social media — check out my profile!  
+- 👾 I also share DevOps and tech-related content on social media — check out my channel [CHANNEL](https://www.youtube.com/@Mateo.Cordone)!  
 - 📫 You can contact me at: <a href="mailto:mateocordonepf@gmail.com">mateocordonepf@gmail.com</a>
 - :boom: You can visit [MY WEBSITE](https://www.mateocordone.com.ar/).
 <br>
