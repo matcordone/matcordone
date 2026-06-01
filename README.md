@@ -16,7 +16,7 @@
 - :student: Continuously learning about `Cloud`, `DevOps`, `IaC` and `Python`.
 - ✔ Always happy to chat — feel free to ask me anything!  
 - 🚀 Outside of tech, I enjoy 🎮 gaming, 📖 books, 🎥 creating YouTube videos &	📈 Investing in the Stock Market.  
-- 👾 I also share DevOps and tech-related content on social media — check out my channel [CHANNEL](https://www.youtube.com/@Mateo.Cordone)!  
+- 👾 I also share DevOps and tech-related content on social media — check out my [channel](https://www.youtube.com/@Mateo.Cordone)!  
 - 📫 You can contact me at: <a href="mailto:mateocordonepf@gmail.com">mateocordonepf@gmail.com</a>
 - :boom: You can visit [MY WEBSITE](https://www.mateocordone.com.ar/).
 <br>
