@@ -19,6 +19,8 @@
 - 👾 I also share DevOps and tech-related content on social media — check out my [channel](https://www.youtube.com/@Mateo.Cordone)!  
 - 📫 You can contact me at: <a href="mailto:mateocordonepf@gmail.com">mateocordonepf@gmail.com</a>
 - :boom: You can visit [MY WEBSITE](https://www.mateocordone.com.ar/).
+- 🧑‍🚀 You can visit my Discord community for AWS & Cloud Enthusiastics [The Cloud Crew](https://discord.gg/Tkyc8EgyrC).
+- ᚱ You can visit my consulting SMB [RaidoPath](https://www.raidopath.com/).
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
