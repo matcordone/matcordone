@@ -10,8 +10,8 @@
 
 <br>
 
-- :school: I am a professional `Cloud/DevOps` Engineer
-- :trophy: 3 `Certs` <a href="https://www.credly.com/badges/8e50f2c9-4d45-4282-a766-32da9a02faf2/public_url"> AWS Cloud Practitioner <a/>, <a href="https://www.credly.com/badges/901527f1-3d2d-4326-8afc-075c0bbf5e65/public_url"> AWS Solutions Architect Associate <a/> and <a href="https://www.credly.com/badges/150c7c6c-cbe6-4c04-bbf5-6671b3c416a9/public_url"> Terraform Associate <a/>
+- :school: I am a professional `Senior Cloud/DevOps` Engineer
+- :trophy: 4 `Certs` <a href="https://www.credly.com/badges/8e50f2c9-4d45-4282-a766-32da9a02faf2/public_url"> AWS Cloud Practitioner <a/>, <a href="https://www.credly.com/badges/901527f1-3d2d-4326-8afc-075c0bbf5e65/public_url"> AWS Solutions Architect Associate <a/>, <a href="https://www.credly.com/badges/f231173d-1d68-4285-891f-1e59a478eb32/public_url"> AWS Solutions Architect - Professional <a/> and <a href="https://www.credly.com/badges/150c7c6c-cbe6-4c04-bbf5-6671b3c416a9/public_url"> Terraform Associate <a/>
 - :computer: Passionate about building reliable and automated `Cloud Infrastructures`.
 - :student: Continuously learning about `Cloud`, `DevOps`, `IaC` and `Python`.
 - ✔ Always happy to chat — feel free to ask me anything!  
@@ -28,6 +28,7 @@
 #### Main Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
